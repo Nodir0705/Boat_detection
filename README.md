@@ -1,2 +1,8 @@
-# Boat_detection
-The project consists of using a CNN, specifically a simplification of LeNet-5 to identify ships, the data was obtained from the planet database and published in kaggle by Bob Hammell under the CC BY-SA 4.0 license, which allows its use and transformation
+# Boat-detection-CNN
+Boat detection using a Convolutional Neural Netwrok  
+![alt text](https://i.imgur.com/t1By1OU.png)  
+Using satellite images of San Francisco Bay Area from Planet's API a CNN was trained to identify boats. 
+- The dataset contains 40,000 images
+- The confusion matrix was used to analyze metrics, priotizing the sensitiviy over precision.  
+# Documentation
+De file code.ipynb contains a the code as well as explanation for each part (load data, clean data, CNN creation, CNN training,...)
