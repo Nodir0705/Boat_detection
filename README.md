@@ -5,4 +5,4 @@ Using satellite images of San Francisco Bay Area from Planet's API a CNN was tra
 - The dataset contains 40,000 images
 - The confusion matrix was used to analyze metrics, priotizing the sensitiviy over precision.  
 # Documentation
-De file code.ipynb contains a the code as well as explanation for each part (load data, clean data, CNN creation, CNN training,...)
+The file Bote_detection_using_images_code.ipynb contains a the code as well as explanation for each part (load data, clean data, CNN creation, CNN training,...)
